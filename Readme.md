@@ -18,7 +18,6 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 
 # My own Build: Space Performance V2 Controller
 <img width="100%" alt="Unbenannnt" src="https://github.com/user-attachments/assets/93487109-df3d-498a-9c28-86d92a7d6322" />
-<img width="100%" alt="Comparison" src="https://github.com/user-attachments/assets/1fc76087-3414-43a9-b5c0-f30f00825d1b" />
 <img width="100%" alt="Unbenannnnt" src="https://github.com/user-attachments/assets/5d2e0f59-174f-4c4c-9f29-892c46cf2381" />
 
 ## Specs of the Controller
@@ -37,14 +36,10 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="100%" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
 
 # Polling Rate and Latency
-## Polling Rate and real End-to-End-Latency of 1ms  
+<img width="100%" alt="Screenshot 2026-05-26 161343" src="https://github.com/user-attachments/assets/8a878973-e24b-48a3-a069-a14e8ae2791b" />     
 
-<img width="100%" alt="Screenshot 2026-03-27 145655" src="https://github.com/user-attachments/assets/a8d9c662-898d-4cb2-b4f1-82381ba7e143" />
+<img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
 <img width="40%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />  
-
-
-
-
 
 # SLA-3D-Printer-Parts
 Raw printed parts (Front and Back).
