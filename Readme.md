@@ -36,6 +36,7 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="100%" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
 
 # Polling Rate and Latency
+<img width="100%" alt="Latenz tabelle-11" src="https://github.com/user-attachments/assets/d3e79507-4a79-4f1f-87d3-d3611fa333e2" />
 
 <img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
 <img width="40%" alt="Screenshot 2026-01-23 234105" src="https://github.com/user-attachments/assets/329c6802-015e-4041-a63b-c09403ac8e20" />  
