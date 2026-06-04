@@ -47,7 +47,6 @@ The STL files are not yet available due to stability testing. There may be a pub
 . However, please note that there is currently no assembly tutorial available for these parts.
 
 <img width="100%" alt="Unbenannt" src="https://github.com/user-attachments/assets/df5b5ce7-e4e0-482b-b082-9d55db1be5f0" />  
-<img width="100%" alt="Unbegnannt" src="https://github.com/user-attachments/assets/fc827f31-e441-442b-8764-04ad2df2ab4a" />  
 
 # Test Ingame
 
