@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/8df616dd-1650-4056-8ab0-c3171b6e6a49
 https://github.com/user-attachments/assets/43901530-db92-4c44-af7b-47f795a1488e
 
 - **App for calibration**
-<img width="50%" alt="image" src="https://github.com/user-attachments/assets/bd6ce348-fc34-4a10-842a-6bfedf141b5d" />
+<img width="100%" alt="Screenshot 2026-06-04 174024" src="https://github.com/user-attachments/assets/f8ce5f31-c242-4807-8c12-e6a4a3d5f6f8" />
 
 - **new Shell "Space Performance V3"**
 - with LED, Keyboard-Button-Mapping and Scroll-Wheel
