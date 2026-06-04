@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/43901530-db92-4c44-af7b-47f795a1488e
 - **App for calibration**
 <img width="50%" alt="Screenshot 2026-06-04 174024" src="https://github.com/user-attachments/assets/f8ce5f31-c242-4807-8c12-e6a4a3d5f6f8" />
     
-[![Download EXE](https://img.shields.io/badge/Download-Space_Calibration_Beta_Software%20(.exe)-blue?style=for-the-badge)](https://github.com/SylvesterFPS/Space-Performance-V2-aka-Teensy-4.0-XInput-Controller/releases/download/Software/Space.Controller.exe)
+[![Download EXE](https://img.shields.io/badge/Download-Space_Calibration_Beta_Software%20(.exe)-blue?style=for-the-badge)](https://github.com/SylvesterFPS/Space-Performance-V2-aka-Teensy-4.0-XInput-Controller/releases/download/Software/Space_Controller.exe)
 
 - **new Shell "Space Performance V3"**
 - with LED, Keyboard-Button-Mapping and Scroll-Wheel
