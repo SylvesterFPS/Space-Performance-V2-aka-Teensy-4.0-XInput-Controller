@@ -36,15 +36,18 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="100%" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
 
 # Polling Rate and Latency
-**My own beta Tester:**
+**My own beta Tester:**  
 <img width="100%" alt="Screenshot 2026-06-25 201604" src="https://github.com/user-attachments/assets/654f6f2f-1c7d-4641-a1c5-223b04f50400" />
 <img width="100%" alt="test" src="https://github.com/user-attachments/assets/baefde91-5076-4a6c-8c6c-a6bc849ca3ad" />
-    
-**Gamepadla:**
+ Download: https://github.com/SylvesterFPS/Button-Latency-Tester-for-XInput-Gamepads   
+ 
+**Gamepadla:**   
 <img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
+Link: https://gamepadla.com/teensy-4-0-xinput-controller.html  
 
-**Deeppoll:**  
-<img width="50%" alt="Screenshot 2026-06-20 125325" src="https://github.com/user-attachments/assets/51064c89-1029-4679-b5e9-c25a79505b50" />
+**Deeppoll:**   
+<img width="50%" alt="Screenshot 2026-06-20 125325" src="https://github.com/user-attachments/assets/51064c89-1029-4679-b5e9-c25a79505b50" />  
+Link: https://tools.mariusheier.com/deeppoll.html  
 
 
 # SLA-3D-Printer-Parts
