@@ -36,9 +36,15 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="100%" alt="Unbenannnnnnt" src="https://github.com/user-attachments/assets/61ef6b60-dc72-403e-b005-97eac1d032b9" />
 
 # Polling Rate and Latency
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/997c1b94-caad-4a2a-8727-f2ba64d3a7be" />
+**My own beta Tester:**
+<img width="100%" alt="Screenshot 2026-06-25 200405" src="https://github.com/user-attachments/assets/36ac3fab-f44a-44ab-af27-c0e34805031f" />
+  
+<img width="100%" alt="test" src="https://github.com/user-attachments/assets/baefde91-5076-4a6c-8c6c-a6bc849ca3ad" />
 
+**Gamepadla:**
 <img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
+
+**Deeppoll:**  
 <img width="50%" alt="Screenshot 2026-06-20 125325" src="https://github.com/user-attachments/assets/51064c89-1029-4679-b5e9-c25a79505b50" />
 
 
