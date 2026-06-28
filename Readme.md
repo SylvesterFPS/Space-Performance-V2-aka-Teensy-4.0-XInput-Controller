@@ -77,6 +77,8 @@ https://github.com/user-attachments/assets/43901530-db92-4c44-af7b-47f795a1488e
 - **new Shell "Space Performance V3"**
 - with LED, Keyboard-Button-Mapping and Scroll-Wheel
 
+-**The firmware source code will later also be released as open source for the XInput-USB-Mode!**
+
 
 
 
