@@ -39,7 +39,6 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 **My own beta Tester:**  
 <img width="100%" alt="Screenshot 2026-06-25 201604" src="https://github.com/user-attachments/assets/654f6f2f-1c7d-4641-a1c5-223b04f50400" />
 <img width="100%" alt="test" src="https://github.com/user-attachments/assets/baefde91-5076-4a6c-8c6c-a6bc849ca3ad" />
-Download: https://github.com/SylvesterFPS/Button-Latency-Tester-for-XInput-Gamepads
 
 **Note:** The increased latency caused by using both analog sticks results from constant data transmission over the USB port, triggered by stick jitter. The Teensy's 12-bit ADC is not designed to produce jitter-free 12-bit conversions. I have already identified two potential solutions, which I will share later.   
  
