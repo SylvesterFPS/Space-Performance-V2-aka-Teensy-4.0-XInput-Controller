@@ -67,10 +67,6 @@ https://github.com/user-attachments/assets/8df616dd-1650-4056-8ab0-c3171b6e6a49
 
 # Currently working on:
 - **Firmware Processing Latency**
-- making the XInput libary faster
-
-https://github.com/user-attachments/assets/43901530-db92-4c44-af7b-47f795a1488e
-
 - **App for calibration**
 <img width="50%" alt="Screenshot 2026-06-11 134910" src="https://github.com/user-attachments/assets/74884c35-0de8-4b1d-b167-2e7bd65dbcbe" />
 
