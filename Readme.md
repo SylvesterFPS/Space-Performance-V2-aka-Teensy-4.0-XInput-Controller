@@ -41,7 +41,7 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 <img width="100%" alt="test" src="https://github.com/user-attachments/assets/baefde91-5076-4a6c-8c6c-a6bc849ca3ad" />
 Link: https://github.com/SylvesterFPS/Button-Latency-Tester-for-XInput-Gamepads
 
-**Note:** GIP stands for the "new" XInput-Protocol the Controllers are using. But that doesent mean it interface on PC with GIP - more it has the functions of the new GameInputProtocol.  
+**Note:** GIP stands for the "new" XInput-Protocol the Controllers are using. But that doesent mean it interface on PC with GIP (GIP-Driver on Windows is limited to 1000Hz) - more it has the functions of the new GameInputProtocol. So the Space Performance Controller on XInput(GIP) work like an GIP controller with alle functions of a modern Xbox Series X/S controller, but uses a diffrent driver on PC which allows, to work with XInput-API and GIP-API on 8000Hz on PC. --> I will explain later how it works later. 
  
 **Gamepadla:**   
 <img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
