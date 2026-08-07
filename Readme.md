@@ -37,11 +37,11 @@ With the Teensy 4.0 Microcontroller from PJRC and the Arduino XInput library  fr
 
 # Polling Rate and Latency
 **My own beta Tester:**  
-<img width="100%" alt="Screenshot 2026-07-04 223317" src="https://github.com/user-attachments/assets/2da0271a-1015-417f-9151-43615bb60423" />
+<img width="100%" alt="Screenshot 2026-08-07 113543" src="https://github.com/user-attachments/assets/4ccb43f7-62e5-4ea0-b10d-5e1030467231" />
 <img width="100%" alt="test" src="https://github.com/user-attachments/assets/baefde91-5076-4a6c-8c6c-a6bc849ca3ad" />
 Link: https://github.com/SylvesterFPS/Button-Latency-Tester-for-XInput-Gamepads
 
-**Note:** The increased latency caused by using both analog sticks results from constant data transmission over the USB port, triggered by stick jitter. The Teensy's 12-bit ADC is not designed to produce jitter-free 12-bit conversions. I have already identified two potential solutions, which I will share later.   
+**Note:** GIP stands for the "new" XInput-Protocol the Controllers are using. But that doesent mean it interface on PC with GIP - more it has the functions of the new GameInputProtocol.  
  
 **Gamepadla:**   
 <img width="100%" alt="Screenshot 2026-05-26 162045" src="https://github.com/user-attachments/assets/7a1e3f6d-f4e5-4783-887c-abee92d7d1c4" />
